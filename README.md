@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![happy coding's GitHub status](https://github-readme-stats.vercel.app/api?username=lmwmason&show_icons=true&theme=cobalt)
 <!--
 **lmwmason/lmwmason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
