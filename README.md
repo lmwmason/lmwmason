@@ -15,7 +15,7 @@ _Always learning, building, and sharing 🚀_
 
 ## 📇 Contact & Personal Info
 - ✉️ **Email:** [grassfpv@naver.com](mailto:grassfpv@naver.com)  
-- 🏫 **School:** ![School](https://img.shields.io/badge/CBSH_37th-0055FF?style=for-the-badge&logo=school&logoColor=white) CBSH 37th  
+- 🏫 **School:** ![충북과학고](https://img.shields.io/badge/Chungbuk_Science_High-0055FF?style=for-the-badge&logo=education&logoColor=white) Chungbuk Science High School (CBSH 37th)  
 - 🌍 **Nationality:** 🇰🇷 Korean  
 - 🎂 **Birth Year:** 2009  
 - ⚡ **Other Info:** Maker / Tech Enthusiast  
@@ -84,6 +84,19 @@ _Always learning, building, and sharing 🚀_
 ![DJI Mini 2](https://img.shields.io/badge/DJI_Mini_2-FF0000?style=for-the-badge&logo=dji&logoColor=white)
 ![DJI Air 3](https://img.shields.io/badge/DJI_Air_3-FF0000?style=for-the-badge&logo=dji&logoColor=white)
 ![DJI Avata](https://img.shields.io/badge/DJI_Avata-FF0000?style=for-the-badge&logo=dji&logoColor=white)
-![Custom FPV](https://img.shields.io/badge/Custom_FPV-000000?style=for-the-badge&logo=drone&logoColor=white)
+![Custom FPV](https://img.shields.io/badge/Custom_FPV-000000?style=for-the-badge&logo=drone&logoColor=white) (Self-built)
 ![BetaFlight](https://img.shields.io/badge/BetaFlight-FF6600?style=for-the-badge&logo=betaflight&logoColor=white)
-![Liftoff](https://img.shields.io/badge/Liftoff-
+![Liftoff](https://img.shields.io/badge/Liftoff-00AAFF?style=for-the-badge&logo=drone&logoColor=white)
+![Velocidrone](https://img.shields.io/badge/Velocidrone-FF6600?style=for-the-badge&logo=drone&logoColor=white)
+
+---
+
+## 📊 GitHub & Algorithm Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lmwmason&show_icons=true&theme=cobalt)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lmwmason&layout=compact&theme=gruvbox)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lmwmason)](https://solved.ac/lmwmason)
+
+---
+
+## 💬 Motto
+> _"Code is a work of art, and above all, it should be readable."_ – Bjarne Stroustrup
