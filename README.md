@@ -15,6 +15,7 @@
 
 ## 📊 GitHub & Algorithm Stats
 <p>
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={@lmwmason})](https://solved.ac/{}) 
 <a href="https://github.com/lmwmason" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=lmwmason&show_icons=true&theme=cobalt" alt="GitHub Stats"></a>
 <a href="https://github.com/lmwmason" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmwmason&layout=compact&theme=gruvbox" alt="Top Languages"></a>
 <a href="https://solved.ac/lmwmason" target="_blank"><img src="http://mazassumnida.wtf/api/generate_badge?boj=lmwmason" alt="Solved.ac"></a>
