@@ -16,7 +16,7 @@ _Always learning, building, and sharing 🚀_
 - ✉️ **Email:** [grassfpv@naver.com](mailto:grassfpv@naver.com)  
 - 🏫 **School:** CBSH 37th  
 - 🌍 **Nationality:** 🇰🇷 Korean  
-- 🎂 **Birth Year / Age:** 2009년생  
+- 🎂 **Birth Year / Age:** 2009  
 - ⚡ **Other Info:** Coding enthusiast, Unity & React developer  
 
 ---
