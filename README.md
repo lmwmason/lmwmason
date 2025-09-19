@@ -84,7 +84,7 @@ _Always learning, building, and sharing 🚀_
 ![DJI Mini 2](https://img.shields.io/badge/DJI_Mini_2-FF0000?style=for-the-badge&logo=dji&logoColor=white)
 ![DJI Air 3](https://img.shields.io/badge/DJI_Air_3-FF0000?style=for-the-badge&logo=dji&logoColor=white)
 ![DJI Avata](https://img.shields.io/badge/DJI_Avata-FF0000?style=for-the-badge&logo=dji&logoColor=white)
-![Custom FPV](https://img.shields.io/badge/Custom_FPV-000000?style=for-the-badge&logo=drone&logoColor=white) (Self-built)
+![Custom FPV](https://img.shields.io/badge/Custom_FPV-000000?style=for-the-badge&logo=drone&logoColor=white)
 ![BetaFlight](https://img.shields.io/badge/BetaFlight-FF6600?style=for-the-badge&logo=betaflight&logoColor=white)
 ![Liftoff](https://img.shields.io/badge/Liftoff-00AAFF?style=for-the-badge&logo=drone&logoColor=white)
 ![Velocidrone](https://img.shields.io/badge/Velocidrone-FF6600?style=for-the-badge&logo=drone&logoColor=white)
