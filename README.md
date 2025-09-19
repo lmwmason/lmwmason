@@ -3,11 +3,18 @@
 # 🌟 Happy Coding 🌟  
 _Always learning, building, and sharing 🚀_
 
+<!-- GitHub & Solved.ac Status -->
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=lmwmason&show_icons=true&theme=cobalt" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmwmason&layout=compact&theme=gruvbox" alt="Top Languages">
+<a href="https://solved.ac/lmwmason"><img src="http://mazassumnida.wtf/api/generate_badge?boj=lmwmason" alt="Solved.ac Profile"></a>
+</p>
+
+<!-- Badges -->
 <p>
 <a href="https://blog.naver.com/happy_coding-"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Blog"></a>
 <a href="https://www.youtube.com/@GRASS_CODING"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://github.com/lmwmason"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://solved.ac/lmwmason"><img src="https://img.shields.io/badge/Solved.ac-1A1A1A?style=for-the-badge&logo=acm&logoColor=white" alt="Solved.ac"></a>
 <a href="https://www.youtube.com/@GrassFPV-drone"><img src="https://img.shields.io/badge/Drone_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Drone YouTube"></a>
 </p>
 
@@ -45,12 +52,12 @@ _Always learning, building, and sharing 🚀_
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-<img src="https://img.shields.io/badge/PlatformIO-1E90FF?style=for-the-badge&logo=platformdotio&logoColor=white" alt="PlatformIO">
+<img src="https://img.shields.io/badge/PlatformIO-1A82F7?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO">
 </p>
 
-### 🖥️ IDEs & Dev Tools
+### 🖥️ IDEs & Development Tools
 <p>
-<img src="https://img.shields.io/badge/CLion-007ACC?style=for-the-badge&logo=jetbrains&logoColor=white" alt="CLion">
+<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="CLion">
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="PyCharm">
 <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="WebStorm">
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="IntelliJ">
@@ -61,7 +68,7 @@ _Always learning, building, and sharing 🚀_
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 <img src="https://img.shields.io/badge/GitKraken-F05032?style=for-the-badge&logo=gitkraken&logoColor=white" alt="GitKraken">
 <img src="https://img.shields.io/badge/EasyEDA_Pro-0A0A0A?style=for-the-badge&logo=easyeda&logoColor=white" alt="EasyEDA Pro">
-<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
 ### 📝 Languages
@@ -69,14 +76,14 @@ _Always learning, building, and sharing 🚀_
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/C#-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
 </p>
 
-### 🖥️ OS
+### 🖥️ Operating System
 <p>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
 </p>
@@ -91,18 +98,6 @@ _Always learning, building, and sharing 🚀_
 <img src="https://img.shields.io/badge/Ender_6-000000?style=for-the-badge&logo=3d-printer&logoColor=white" alt="Ender 6">
 </p>
 
-### 📝 Productivity Tools
-<p>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-<img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
-<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp">
-</p>
-
-### 🎵 Music
-<p>
-<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
-</p>
-
 ### 🎬 Video & Motion Tools
 <p>
 <img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=blackmagicdesign&logoColor=white" alt="DaVinci Resolve">
@@ -110,7 +105,7 @@ _Always learning, building, and sharing 🚀_
 <img src="https://img.shields.io/badge/GyroFlow-000000?style=for-the-badge&logo=black&logoColor=white" alt="GyroFlow">
 </p>
 
-### 🛸 Drones / FPV
+### 🛸 Drones & FPV Tools
 <p>
 <img src="https://img.shields.io/badge/DJI_Mini_2-FF0000?style=for-the-badge&logo=dji&logoColor=white" alt="DJI Mini 2">
 <img src="https://img.shields.io/badge/DJI_Air_3-FF0000?style=for-the-badge&logo=dji&logoColor=white" alt="DJI Air 3">
@@ -121,15 +116,18 @@ _Always learning, building, and sharing 🚀_
 <img src="https://img.shields.io/badge/Velocidrone-FF6600?style=for-the-badge&logo=drone&logoColor=white" alt="Velocidrone">
 </p>
 
----
-
-## 📊 GitHub & Algorithm Stats
+### 🗂️ Productivity Tools
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=lmwmason&show_icons=true&theme=cobalt" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmwmason&layout=compact&theme=gruvbox" alt="Top Languages">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+<img src="https://img.shields.io/badge/Obsidian-3A3A3A?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
+<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp">
+<img src="https://img.shields.io/badge/Brave-FF6600?style=for-the-badge&logo=brave&logoColor=white" alt="Brave Browser">
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lmwmason)](https://solved.ac/lmwmason)
+### 🎵 Music
+<p>
+<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+</p>
 
 ---
 
