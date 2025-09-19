@@ -4,7 +4,7 @@
 _Always learning, building, and sharing 🚀_
 
 [![Naver Blog](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/happy_coding-)
-[![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUe70G_YiHnNVPugrRVdlWA)
+[![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUe70G_YiHnNVPugrRVdlWA](https://www.youtube.com/@GRASS_CODING)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lmwmason)
 [![Solved.ac](https://img.shields.io/badge/Solved.ac-1A1A1A?style=for-the-badge&logo=acm&logoColor=white)](https://solved.ac/lmwmason)
 
