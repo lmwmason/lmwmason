@@ -11,15 +11,6 @@
 
 ---
 
-<div align="center">
-
-# 🌟 Happy Coding 🌟  
-_Always learning, building, and sharing 🚀_
-
-</div>
-
----
-
 ## 📊 GitHub & Algorithm Stats
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=lmwmason&show_icons=true&theme=cobalt" alt="GitHub Stats">
@@ -122,7 +113,7 @@ _Always learning, building, and sharing 🚀_
 <img src="https://img.shields.io/badge/Velocidrone-FF6600?style=for-the-badge&logo=drone&logoColor=white" alt="Velocidrone">
 </p>
 
-### 🗂️ Productivity Tools
+### 🗂️ Productivity & Tools
 <p>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
 <img src="https://img.shields.io/badge/Obsidian-3A3A3A?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
