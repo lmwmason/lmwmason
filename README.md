@@ -1,12 +1,11 @@
 <div align="center">
 
 <!-- Top Badges / Links -->
-<a href="https://blog.naver.com/happy_coding-"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Blog"></a>
-<a href="https://www.youtube.com/@GRASS_CODING"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-<a href="https://github.com/lmwmason"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://solved.ac/lmwmason"><img src="http://mazassumnida.wtf/api/generate_badge?boj=lmwmason" alt="Solved.ac"></a>
-<a href="https://www.youtube.com/@GrassFPV-drone"><img src="https://img.shields.io/badge/Drone_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Drone YouTube"></a>
-
+<a href="https://blog.naver.com/happy_coding-" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Blog"></a>
+<a href="https://www.youtube.com/@GRASS_CODING" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://github.com/lmwmason" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://solved.ac/lmwmason" target="_blank"><img src="http://mazassumnida.wtf/api/generate_badge?boj=lmwmason" alt="Solved.ac"></a>
+<a href="https://www.youtube.com/@GrassFPV-drone" target="_blank"><img src="https://img.shields.io/badge/Drone_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Drone YouTube"></a>
 
 </div>
 
@@ -14,9 +13,9 @@
 
 ## 📊 GitHub & Algorithm Stats
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=lmwmason&show_icons=true&theme=cobalt" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmwmason&layout=compact&theme=gruvbox" alt="Top Languages">
-<a href="https://solved.ac/lmwmason"><img src="http://mazassumnida.wtf/api/generate_badge?boj=lmwmason" alt="Solved.ac"></a>
+<a href="https://github.com/lmwmason" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=lmwmason&show_icons=true&theme=cobalt" alt="GitHub Stats"></a>
+<a href="https://github.com/lmwmason" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmwmason&layout=compact&theme=gruvbox" alt="Top Languages"></a>
+<a href="https://solved.ac/lmwmason" target="_blank"><img src="http://mazassumnida.wtf/api/generate_badge?boj=lmwmason" alt="Solved.ac"></a>
 </p>
 
 ---
@@ -96,39 +95,3 @@
 <img src="https://img.shields.io/badge/Ender_3-000000?style=for-the-badge&logo=3d-printer&logoColor=white" alt="Ender 3">
 <img src="https://img.shields.io/badge/Ender_6-000000?style=for-the-badge&logo=3d-printer&logoColor=white" alt="Ender 6">
 </p>
-
-### 🎬 Video & Motion Tools
-<p>
-<img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=blackmagicdesign&logoColor=white" alt="DaVinci Resolve">
-<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe&logoColor=white" alt="Premiere Pro">
-<img src="https://img.shields.io/badge/GyroFlow-000000?style=for-the-badge&logo=black&logoColor=white" alt="GyroFlow">
-</p>
-
-### 🛸 Drones & FPV Tools
-<p>
-<img src="https://img.shields.io/badge/DJI_Mini_2-FF0000?style=for-the-badge&logo=dji&logoColor=white" alt="DJI Mini 2">
-<img src="https://img.shields.io/badge/DJI_Air_3-FF0000?style=for-the-badge&logo=dji&logoColor=white" alt="DJI Air 3">
-<img src="https://img.shields.io/badge/DJI_Avata-FF0000?style=for-the-badge&logo=dji&logoColor=white" alt="DJI Avata">
-<img src="https://img.shields.io/badge/Custom_FPV-000000?style=for-the-badge&logo=drone&logoColor=white" alt="Custom FPV">
-<img src="https://img.shields.io/badge/BetaFlight-FF6600?style=for-the-badge&logo=betaflight&logoColor=white" alt="BetaFlight">
-<img src="https://img.shields.io/badge/Liftoff-00AAFF?style=for-the-badge&logo=drone&logoColor=white" alt="Liftoff">
-<img src="https://img.shields.io/badge/Velocidrone-FF6600?style=for-the-badge&logo=drone&logoColor=white" alt="Velocidrone">
-</p>
-
-### 🗂️ Productivity & Tools
-<p>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-<img src="https://img.shields.io/badge/Obsidian-3A3A3A?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
-<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp">
-<img src="https://img.shields.io/badge/Brave-FF6600?style=for-the-badge&logo=brave&logoColor=white" alt="Brave Browser">
-</p>
-
-### 🎵 Music
-<p>
-<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
-</p>
-
----
-
-## 💬 Motto
-> _"Code is a work of art, and above all, it should be readable."_ – Bjarne Stroustrup
