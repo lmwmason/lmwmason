@@ -1,6 +1,6 @@
 ## Happy Coding
 [![NaverBlog Badge](https://img.shields.io/badge/Coding%20Blog-555263?style=flat&logoColor=white)](https://blog.naver.com/happy_coding-)
-[![Youtube Badge](https://img.shields.io/badge/Coding%20Youtube-555263?style=flat&logoColor=white)]([https://blog.naver.com/happy_coding-](https://www.youtube.com/channel/UCUe70G_YiHnNVPugrRVdlWA))
+[![Youtube Badge](https://img.shields.io/badge/Coding%20Youtube-555263?style=flat&logoColor=white)](https://www.youtube.com/channel/UCUe70G_YiHnNVPugrRVdlWA)
 
 ![happy coding's GitHub status](https://github-readme-stats.vercel.app/api?username=lmwmason&show_icons=true&theme=cobalt)
 
