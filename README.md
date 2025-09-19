@@ -7,21 +7,25 @@
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 My Stats
+
+### 🖥️ GitHub Status
 ![happy coding's GitHub status](https://github-readme-stats.vercel.app/api?username=lmwmason&show_icons=true&theme=cobalt)
 
+### 🏆 Solved.ac Profile
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lmwmason)](https://solved.ac/lmwmason)
 
+### 📚 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lmwmason&layout=compact&theme=gruvbox)
 
 ---
 
 ## 🚀 I'm currently working on
-- ⚛️ **Problem Generator** (React)  
-- 🎮 **GKart** (Unity)  
-- ☁️ **CloudLens** (React)  
-- 🔍 **SearchCode** (React)  
-- 📚 **SelectBadSubject** (React)  
+- 🛠️ **Problem Generator** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+- 🎮 **GKart** ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)  
+- ☁️ **CloudLens** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+- 🔍 **SearchCode** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+- 📚 **SelectBadSubject** ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
 
 ---
 
@@ -34,6 +38,7 @@
 ---
 
 ✨ Always happy to learn, build, and share 🚀
+
 
 <!--
 **lmwmason/lmwmason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
