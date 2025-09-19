@@ -15,7 +15,7 @@ _Always learning, building, and sharing 🚀_
 
 ## 📇 Contact & Personal Info
 - ✉️ **Email:** [grassfpv@naver.com](mailto:grassfpv@naver.com)  
-- 🏫 **School:** ![충북과학고](https://img.shields.io/badge/Chungbuk_Science_High-0055FF?style=for-the-badge&logo=education&logoColor=white) Chungbuk Science High School (CBSH 37th)  
+- 🏫 **School:** Chungbuk Science High School (CBSH 37th)  
 - 🌍 **Nationality:** 🇰🇷 Korean  
 - 🎂 **Birth Year:** 2009  
 - ⚡ **Other Info:** Maker / Tech Enthusiast  
