@@ -1,5 +1,6 @@
 ## Happy Coding
-[![Blog Badge](https://img.shields.io/badge/Coding%20Blog-555263?style=flat&logoColor=white)]("[https://cocoon1787.tistory.com/](https://blog.naver.com/happy_coding-))
+[![Blog Badge](https://img.shields.io/badge/Coding%20Blog-555263?style=flat&logoColor=white)]("[https://cocoon1787.tistory.com/].
+[![Youtube Badge](https://img.shields.io/badge/Coding%20Youtube-555263?style=flat&logoColor=white)]("[[https://cocoon1787.tistory.com/](https://www.youtube.com/channel/UCUe70G_YiHnNVPugrRVdlWA)]
 
 ![happy coding's GitHub status](https://github-readme-stats.vercel.app/api?username=lmwmason&show_icons=true&theme=cobalt)
 
