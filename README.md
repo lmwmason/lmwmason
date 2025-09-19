@@ -4,7 +4,7 @@
 <a href="https://blog.naver.com/happy_coding-" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Blog"></a>
 <a href="https://www.youtube.com/@GRASS_CODING" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://github.com/lmwmason" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://solved.ac/lmwmason" target="_blank"><img src="https://img.shields.io/badge/Solved-00BFFF?style=for-the-badge&logo=sololearn&logoColor=white" alt="Solved.ac"></a>
+<a href="https://solved.ac/lmwmason" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Solved.ac_logo.png" alt="Solved.ac" height="28"></a>
 <a href="https://www.youtube.com/@GrassFPV-drone" target="_blank"><img src="https://img.shields.io/badge/Drone_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Drone YouTube"></a>
 
 </div>
