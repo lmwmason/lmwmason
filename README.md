@@ -1,135 +1,105 @@
-# Happy Coding
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C4FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mason+Lee+(%EC%9D%B4%EB%AC%B4%EC%9B%90)!;Curiosity-driven+Engineer+%26+Maker;Exploring+the+Bridge+Between+Hardware+and+Software" alt="Typing SVG" />
+</h1>
 
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=lmwmason&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 
-<!-- Top Badges / Links -->
+<p>
 <a href="https://blog.naver.com/happy_coding-" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Blog"></a>
 <a href="https://www.youtube.com/@GRASS_CODING" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://github.com/lmwmason" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://solved.ac/lmwmason" target="_blank"><img src="https://img.shields.io/badge/Solved-00BFFF?style=for-the-badge&logo=sololearn&logoColor=white" alt="Solved.ac"></a>
 <a href="https://www.youtube.com/@GrassFPV-drone" target="_blank"><img src="https://img.shields.io/badge/Drone_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Drone YouTube"></a>
-
+</p>
 </div>
 
 ---
 
-## 📊 GitHub & Algorithm Stats
-<p>
-<a href="https://github.com/lmwmason" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=lmwmason&show_icons=true&theme=cobalt" alt="GitHub Stats"></a>
-<a href="https://github.com/lmwmason" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmwmason&layout=compact&theme=gruvbox" alt="Top Languages"></a>
-<a href="https://solved.ac/lmwmason" target="_blank"><img src="http://mazassumnida.wtf/api/generate_badge?boj=lmwmason" alt="Solved.ac"></a>
-</p>
+> _"Code is a work of art, and above all, it should be readable."_  
+> — Bjarne Stroustrup  
 
 ---
 
-## 📇 Contact & Personal Info
+## 👋 About Me
+
+Hi, I'm **Mason Lee (이무원)** — a high school student at **Chungbuk Science High School (CBSH 37th)**.  
+I'm a **curiosity-driven engineer** who builds things to understand how they work.  
+I love connecting **hardware and software**, **AI and mechanics**, and turning ideas into tangible prototypes.
+
+My ultimate goal is not just to learn technology, but to **create systems that make complex things understandable**.  
+I believe that true engineering lies in *curiosity, clarity, and creativity.*
+
+---
+
+## ⚙️ Highlight Projects
+
+| Project | Description | Stack |
+|----------|--------------|--------|
+| [🌍 GetYourEarth](https://github.com/lmwmason/GetYourEarth) | Interactive Earth visualization using environmental data | React, TypeScript, WebGL, Fusion |
+| [🎵 LeeMujin-Frontend](https://github.com/lmwmason/LeeMujin-Frontend) | Interactive UI for music-inspired web experience | React, TSX, Remix |
+| [🎧 LeeMujin-Backend](https://github.com/lmwmason/LeeMujin-backend) | Backend server and data pipeline | Flask, FastAPI, PostgreSQL |
+| [🐔 Chicken Game](https://github.com/lmwmason/chicken_game) | 2D game built with Python and Pygame | Python, Pygame |
+
+🚀 *Currently developing a large-scale project integrating advanced engineering and AI.*
+
+---
+
+## 🧠 Tech Stack
+
+**Languages**  
+`TypeScript` `C` `C++` `Python` `Java` `JavaScript`
+
+**Frameworks / Tools**  
+`React` `Remix` `Flask` `Vercel` `PlatformIO` `Arduino` `Raspberry Pi`
+
+**Modeling & Simulation**  
+`Fusion 360` `AutoCAD` `SketchUp` `Cura`  
+→ Rendering, animation, simulation, assemblies, and HTML-based team sharing
+
+**Drone / Robotics**  
+`DJI Avata` `DJI Mini 2` `DJI Air 3` `Custom FPV`  
+`BetaFlight` `Liftoff` `Velocidrone`
+
+**Development Tools**  
+`VS Code` `WebStorm` `CLion` `PyCharm` `Notion` `Obsidian` `ClickUp`
+
+---
+
+## 📊 Stats & Analytics
+
+<div align="center">
+  <a href="https://github.com/lmwmason">
+    <img src="https://github-readme-stats.vercel.app/api?username=lmwmason&show_icons=true&theme=cobalt" alt="GitHub Stats">
+  </a>
+  <a href="https://github.com/lmwmason">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmwmason&layout=compact&theme=gruvbox" alt="Top Languages">
+  </a>
+  <a href="https://solved.ac/lmwmason">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=lmwmason" alt="Solved.ac Badge">
+  </a>
+</div>
+
+---
+
+## 💭 Philosophy
+
+I see **code as art**, **systems as language**, and **projects as philosophy**.  
+Technology, to me, is not just a tool — it’s a medium to understand and shape the world.
+
+> _Engineering isn’t just about solving problems —  
+> it’s about discovering new ways to understand how things work._
+
+---
+
+## 📇 Contact
+
 - ✉️ **Email:** [grassfpv@naver.com](mailto:grassfpv@naver.com)  
 - 🏫 **School:** Chungbuk Science High School (CBSH 37th)  
-- 🌍 **Nationality:** 🇰🇷 Korean  
-- 🎂 **Birth Year:** 2009  
-- ⚡ **Other Info:** Maker / Tech Enthusiast  
-- 🎯 **Hobbies:** Coding 💻, Flying Drones 🛸  
+- 🌍 **Nationality:** 🇰🇷 Korea  
+- 🎂 **Born:** 2009  
+- ⚡ **Interests:** Robotics, Drones, AI, Embedded Systems, Fusion Design  
 
 ---
 
-### 📖 Currently Learning
-<p>
-<img src="https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white" alt="Remix">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-</p>
-
----
-
-## 💻 Skills & Tools
-
-### ⚡ Frameworks / Services
-<p>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-<img src="https://img.shields.io/badge/PlatformIO-1A82F7?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO">
-</p>
-
-### 🖥️ IDEs & Development Tools
-<p>
-<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="CLion">
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="PyCharm">
-<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="WebStorm">
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="IntelliJ">
-<img src="https://img.shields.io/badge/RustRover-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="RustRover">
-<img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="Rider">
-<img src="https://img.shields.io/badge/ArduinoIDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE">
-<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Studio">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-<img src="https://img.shields.io/badge/GitKraken-F05032?style=for-the-badge&logo=gitkraken&logoColor=white" alt="GitKraken">
-<img src="https://img.shields.io/badge/EasyEDA_Pro-0A0A0A?style=for-the-badge&logo=easyeda&logoColor=white" alt="EasyEDA Pro">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
-
-### 📝 Languages
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-</p>
-
-### 🖥️ Operating System
-<p>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-</p>
-
-### 🖌️ 3D Modeling / Printing
-<p>
-<img src="https://img.shields.io/badge/Fusion-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion">
-<img src="https://img.shields.io/badge/AutoCAD-CC2927?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD">
-<img src="https://img.shields.io/badge/SketchUp-FF6F00?style=for-the-badge&logo=sketchup&logoColor=white" alt="SketchUp">
-<img src="https://img.shields.io/badge/Cura-0DB14B?style=for-the-badge&logo=ultimaker&logoColor=white" alt="Cura">
-<img src="https://img.shields.io/badge/Ender_3-000000?style=for-the-badge&logo=3d-printer&logoColor=white" alt="Ender 3">
-<img src="https://img.shields.io/badge/Ender_6-000000?style=for-the-badge&logo=3d-printer&logoColor=white" alt="Ender 6">
-</p>
-
-### 🎬 Video & Motion Tools
-<p>
-<img src="https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=blackmagicdesign&logoColor=white" alt="DaVinci Resolve">
-<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe&logoColor=white" alt="Premiere Pro">
-<img src="https://img.shields.io/badge/GyroFlow-000000?style=for-the-badge&logo=black&logoColor=white" alt="GyroFlow">
-</p>
-
-### 🛸 Drones & FPV Tools
-<p>
-<img src="https://img.shields.io/badge/DJI_Mini_2-FF0000?style=for-the-badge&logo=dji&logoColor=white" alt="DJI Mini 2">
-<img src="https://img.shields.io/badge/DJI_Air_3-FF0000?style=for-the-badge&logo=dji&logoColor=white" alt="DJI Air 3">
-<img src="https://img.shields.io/badge/DJI_Avata-FF0000?style=for-the-badge&logo=dji&logoColor=white" alt="DJI Avata">
-<img src="https://img.shields.io/badge/Custom_FPV-000000?style=for-the-badge&logo=drone&logoColor=white" alt="Custom FPV">
-<img src="https://img.shields.io/badge/BetaFlight-FF6600?style=for-the-badge&logo=betaflight&logoColor=white" alt="BetaFlight">
-<img src="https://img.shields.io/badge/Liftoff-00AAFF?style=for-the-badge&logo=drone&logoColor=white" alt="Liftoff">
-<img src="https://img.shields.io/badge/Velocidrone-FF6600?style=for-the-badge&logo=drone&logoColor=white" alt="Velocidrone">
-</p>
-
-### 🗂️ Productivity & Tools
-<p>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-<img src="https://img.shields.io/badge/Obsidian-3A3A3A?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
-<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp">
-<img src="https://img.shields.io/badge/Brave-FF6600?style=for-the-badge&logo=brave&logoColor=white" alt="Brave Browser">
-</p>
-
-### 🎵 Music
-<p>
-<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
-</p>
-
----
-
-## 💬 Motto
-> _"Code is a work of art, and above all, it should be readable."_ – Bjarne Stroustrup
+⭐️ *“Learning by doing” isn’t just my method — it’s my mindset.*
