@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=Hello%2C%20I%27m%20Muwon%20Lee!;Curiosity-driven%20Engineer%20%26%20Maker;Exploring%20the%20Bridge%20Between%20Hardware%20and%20Software;Learning%20by%20Doing%20%E2%80%94%20Always%20Building%20Something%20New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Muwon+Lee!;Curiosity-driven+Engineer+%26+Maker;Exploring+the+Bridge+Between+Hardware+and+Software" alt="Typing SVG" />
 </h1>
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lmwmason&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views"/>
@@ -28,8 +27,8 @@ Hi, I'm **Muwon Lee (이무원)** — a high school student at **Chungbuk Scienc
 I'm a **curiosity-driven engineer** who builds things to understand how they work.  
 I love connecting **hardware and software**, **AI and mechanics**, and turning ideas into tangible prototypes.
 
-My ultimate goal is not just to learn technology, but to **create systems that make complex things understandable**.  
-I believe that true engineering lies in *curiosity, clarity, and creativity.*
+My goal is to **create systems that make complex things understandable**,  
+bridging creativity and clarity through engineering.
 
 ---
 
@@ -42,9 +41,15 @@ I believe that true engineering lies in *curiosity, clarity, and creativity.*
 | [🎧 LeeMujin-Backend](https://github.com/lmwmason/LeeMujin-backend) | Backend server and data pipeline | Flask |
 | [🐔 Chicken Game](https://github.com/lmwmason/chicken_game) | 2D game built with Python and Pygame | Python, Pygame |
 
-⭐ **Ongoing Project** — AI-driven robotics and hardware-integrated system (private repo)
+---
 
-🚀 *Currently developing a large-scale project integrating advanced engineering and AI.*
+## 🚧 Ongoing Project
+
+| Project | Description | Focus |
+|----------|--------------|--------|
+| 🤖 **AI-driven Robotics System (Private Repo)** | Team project integrating AI with real-world hardware control. Responsible for **Fusion 360 modeling**, **rendering**, and **simulation**. | Fusion 360, Embedded Systems, Robotics |
+
+🎯 *Currently exploring how AI can enhance mechanical design and simulation workflows.*
 
 ---
 
@@ -73,10 +78,10 @@ I believe that true engineering lies in *curiosity, clarity, and creativity.*
 
 <div align="center">
   <a href="https://github.com/lmwmason">
-    <img src="https://github-readme-stats.vercel.app/api?username=lmwmason&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=lmwmason&show_icons=true&theme=cobalt" alt="GitHub Stats">
   </a>
   <a href="https://github.com/lmwmason">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmwmason&layout=compact&theme=tokyonight" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmwmason&layout=compact&theme=gruvbox" alt="Top Languages">
   </a>
   <a href="https://solved.ac/lmwmason">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=lmwmason" alt="Solved.ac Badge">
