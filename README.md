@@ -54,7 +54,7 @@ I believe that true engineering lies in *curiosity, clarity, and creativity.*
 `React` `Remix` `Flask` `Vercel` `PlatformIO` `Arduino` `Raspberry Pi`
 
 **Modeling & Simulation**  
-`Fusion 360` `AutoCAD` `SketchUp` `Cura`  
+`Fusion` `AutoCAD` `SketchUp` `Cura`  
 → Rendering, animation, simulation, assemblies, and HTML-based team sharing
 
 **Drone / Robotics**  
