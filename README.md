@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Muwon+Lee+(%EC%9D%B4%EB%AC%B4%EC%9B%90)!;Curiosity-driven+Engineer+%26+Maker;Exploring+the+Bridge+Between+Hardware+and+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Muwon+Lee!;Curiosity-driven+Engineer+%26+Maker;Exploring+the+Bridge+Between+Hardware+and+Software" alt="Typing SVG" />
 </h1>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=lmwmason&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 
 <p>
-<a href="https://blog.naver.com/happy_coding-" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Blog"></a>
+<a href="https://happycoding1.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Blog"></a>
 <a href="https://www.youtube.com/@GRASS_CODING" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://github.com/lmwmason" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://solved.ac/lmwmason" target="_blank"><img src="https://img.shields.io/badge/Solved-00BFFF?style=for-the-badge&logo=sololearn&logoColor=white" alt="Solved.ac"></a>
@@ -23,7 +23,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Mason Lee (이무원)** — a high school student at **Chungbuk Science High School (CBSH 37th)**.  
+Hi, I'm **Muwon Lee (이무원)** — a high school student at **Chungbuk Science High School (CBSH 37th)**.  
 I'm a **curiosity-driven engineer** who builds things to understand how they work.  
 I love connecting **hardware and software**, **AI and mechanics**, and turning ideas into tangible prototypes.
 
