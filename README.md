@@ -1,17 +1,17 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Muwon+Lee!;Curiosity-driven+Engineer+%26+Maker;Exploring+the+Bridge+Between+Hardware+and+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Muwon+Lee!;Curiosity-driven+Engineer+%26+Maker;Exploring+the+Bridge+Between+Hardware+and+Software;Learning+by+Doing+—+Always+Building+Something+New" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=lmwmason&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=lmwmason&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 
-<p>
-<a href="https://happycoding1.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Blog"></a>
-<a href="https://www.youtube.com/@GRASS_CODING" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-<a href="https://github.com/lmwmason" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://solved.ac/lmwmason" target="_blank"><img src="https://img.shields.io/badge/Solved-00BFFF?style=for-the-badge&logo=sololearn&logoColor=white" alt="Solved.ac"></a>
-<a href="https://www.youtube.com/@GrassFPV-drone" target="_blank"><img src="https://img.shields.io/badge/Drone_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Drone YouTube"></a>
-</p>
+  <p>
+    <a href="https://happycoding1.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Blog"></a>
+    <a href="https://www.youtube.com/@GRASS_CODING" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+    <a href="https://github.com/lmwmason" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://solved.ac/lmwmason" target="_blank"><img src="https://img.shields.io/badge/Solved-00BFFF?style=for-the-badge&logo=sololearn&logoColor=white" alt="Solved.ac"></a>
+    <a href="https://www.youtube.com/@GrassFPV-drone" target="_blank"><img src="https://img.shields.io/badge/Drone_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Drone YouTube"></a>
+  </p>
 </div>
 
 ---
@@ -41,6 +41,8 @@ I believe that true engineering lies in *curiosity, clarity, and creativity.*
 | [🎧 LeeMujin-Backend](https://github.com/lmwmason/LeeMujin-backend) | Backend server and data pipeline | Flask |
 | [🐔 Chicken Game](https://github.com/lmwmason/chicken_game) | 2D game built with Python and Pygame | Python, Pygame |
 
+⭐ **Ongoing Project** — AI-driven robotics and hardware-integrated system (private repo)
+
 🚀 *Currently developing a large-scale project integrating advanced engineering and AI.*
 
 ---
@@ -54,7 +56,7 @@ I believe that true engineering lies in *curiosity, clarity, and creativity.*
 `React` `Remix` `Flask` `Vercel` `PlatformIO` `Arduino` `Raspberry Pi`
 
 **Modeling & Simulation**  
-`Fusion` `AutoCAD` `SketchUp` `Cura`  
+`Fusion 360` `AutoCAD` `SketchUp` `Cura`  
 → Rendering, animation, simulation, assemblies, and HTML-based team sharing
 
 **Drone / Robotics**  
@@ -70,10 +72,10 @@ I believe that true engineering lies in *curiosity, clarity, and creativity.*
 
 <div align="center">
   <a href="https://github.com/lmwmason">
-    <img src="https://github-readme-stats.vercel.app/api?username=lmwmason&show_icons=true&theme=cobalt" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=lmwmason&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   </a>
   <a href="https://github.com/lmwmason">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmwmason&layout=compact&theme=gruvbox" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmwmason&layout=compact&theme=tokyonight" alt="Top Languages">
   </a>
   <a href="https://solved.ac/lmwmason">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=lmwmason" alt="Solved.ac Badge">
