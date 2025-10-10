@@ -36,9 +36,9 @@ I believe that true engineering lies in *curiosity, clarity, and creativity.*
 
 | Project | Description | Stack |
 |----------|--------------|--------|
-| [🌍 GetYourEarth](https://github.com/lmwmason/GetYourEarth) | Interactive Earth visualization using environmental data | React, TypeScript, WebGL, Fusion |
-| [🎵 LeeMujin-Frontend](https://github.com/lmwmason/LeeMujin-Frontend) | Interactive UI for music-inspired web experience | React, TSX, Remix |
-| [🎧 LeeMujin-Backend](https://github.com/lmwmason/LeeMujin-backend) | Backend server and data pipeline | Flask, FastAPI, PostgreSQL |
+| [🌍 GetYourEarth](https://github.com/lmwmason/GetYourEarth) | Interactive Earth visualization using environmental data | React, TypeScript, Gemini API, Teachable Machine |
+| [🎵 LeeMujin-Frontend](https://github.com/lmwmason/LeeMujin-Frontend) | Interactive UI for music-inspired web experience | React, TSX |
+| [🎧 LeeMujin-Backend](https://github.com/lmwmason/LeeMujin-backend) | Backend server and data pipeline | Flask |
 | [🐔 Chicken Game](https://github.com/lmwmason/chicken_game) | 2D game built with Python and Pygame | Python, Pygame |
 
 🚀 *Currently developing a large-scale project integrating advanced engineering and AI.*
