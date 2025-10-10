@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Muwon+Lee!;Curiosity-driven+Engineer+%26+Maker;Exploring+the+Bridge+Between+Hardware+and+Software;Learning+by+Doing+—+Always+Building+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C4FF&center=true&vCenter=true&width=700&lines=Hello%2C%20I%27m%20Muwon%20Lee!;Curiosity-driven%20Engineer%20%26%20Maker;Exploring%20the%20Bridge%20Between%20Hardware%20and%20Software;Learning%20by%20Doing%20%E2%80%94%20Always%20Building%20Something%20New" alt="Typing SVG" />
 </h1>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lmwmason&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views"/>
