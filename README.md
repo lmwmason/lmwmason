@@ -36,6 +36,7 @@ bridging creativity and clarity through engineering.
 
 | Project | Description | Stack |
 |----------|--------------|--------|
+| [🥽 ArcHive-Summary](https://github.com/lmwmason/ArcHive-Summary) | Interactive academin papaer summarizator using ai | React, TypeScript, Gemini API |
 | [🌍 GetYourEarth](https://github.com/lmwmason/GetYourEarth) | Interactive Earth visualization using environmental data | React, TypeScript, Gemini API, Teachable Machine |
 | [🎵 LeeMujin-Frontend](https://github.com/lmwmason/LeeMujin-Frontend) | Interactive UI for music-inspired web experience | React, TSX |
 | [🎧 LeeMujin-Backend](https://github.com/lmwmason/LeeMujin-backend) | Backend server and data pipeline | Flask |
