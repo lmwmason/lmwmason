@@ -32,18 +32,6 @@ bridging creativity and clarity through engineering.
 
 ---
 
-## ⚙️ Highlight Projects
-
-| Project | Description | Stack |
-|----------|--------------|--------|
-| [🥽 ArcHive-Summary](https://github.com/lmwmason/ArcHive-Summary) | Interactive academin papaer summarizator using ai | React, TypeScript, Gemini API |
-| [🌍 GetYourEarth](https://github.com/lmwmason/GetYourEarth) | Interactive Earth visualization using environmental data | React, TypeScript, Gemini API, Teachable Machine |
-| [🎵 LeeMujin-Frontend](https://github.com/lmwmason/LeeMujin-Frontend) | Interactive UI for music-inspired web experience | React, TSX |
-| [🎧 LeeMujin-Backend](https://github.com/lmwmason/LeeMujin-backend) | Backend server and data pipeline | Flask |
-| [🐔 Chicken Game](https://github.com/lmwmason/chicken_game) | 2D game built with Python and Pygame | Python, Pygame |
-
----
-
 ## 🚧 Ongoing Project
 
 | Project | Description | Focus |
@@ -103,7 +91,7 @@ Technology, to me, is not just a tool — it’s a medium to understand and shap
 
 ## 📇 Contact
 
-- ✉️ **Email:** [grassfpv@naver.com](mailto:grassfpv@naver.com)  
+- ✉️ **Email:** [lwm.hpc@gmail.com](mailto:lmw.hpc@gmail.com)  
 - 🏫 **School:** Chungbuk Science High School (CBSH 37th)  
 - 🌍 **Nationality:** 🇰🇷 Korea  
 - 🎂 **Born:** 2009  
