@@ -5,14 +5,15 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Embedded_Engineering-FFB7C5?style=for-the-badge&logoColor=555" />
   <img src="https://img.shields.io/badge/Goal-Embedded_Researcher_%7C_Founder-B5EAD7?style=for-the-badge&logoColor=555" />
+  <img src="https://img.shields.io/badge/Target-KAIST_특기자전형-FFB7C5?style=for-the-badge&logoColor=555" />
 </div>
 
 <br/>
 
 ### 🌸 about me
 
-i'm a hardware-software engineer focused on high-reliability flight systems and drone technology.  
-studying at a science high school in south korea, building independent projects toward a future in aerospace engineering.  
+i'm a hardware-software engineer focused on high-reliability flight systems and drone technology.
+studying at Chungbuk Science High School, building independent research projects.
 i don't just use tools — i build systems.
 
 ---
@@ -24,8 +25,7 @@ i don't just use tools — i build systems.
     <td align="center" width="25%">
       <b>ECAD / MCAD</b><br/><br/>
       <img src="https://img.shields.io/badge/KiCad-FFB7C5?style=flat-square&logoColor=555" /><br/>
-      <img src="https://img.shields.io/badge/Onshape-B5EAD7?style=flat-square&logoColor=555" /><br/>
-      <img src="https://img.shields.io/badge/SolidWorks-FFB7C5?style=flat-square&logoColor=555" />
+      <img src="https://img.shields.io/badge/Onshape-B5EAD7?style=flat-square&logoColor=555" />
     </td>
     <td align="center" width="25%">
       <b>Embedded Hardware</b><br/><br/>
@@ -37,17 +37,15 @@ i don't just use tools — i build systems.
     <td align="center" width="25%">
       <b>IDE / Tools</b><br/><br/>
       <img src="https://img.shields.io/badge/STM32CubeIDE-FFB7C5?style=flat-square&logoColor=555" /><br/>
-      <img src="https://img.shields.io/badge/STM32CubeMX-B5EAD7?style=flat-square&logoColor=555" /><br/>
-      <img src="https://img.shields.io/badge/VS_Code-FFB7C5?style=flat-square&logoColor=555" /><br/>
       <img src="https://img.shields.io/badge/CLion-B5EAD7?style=flat-square&logoColor=555" /><br/>
-      <img src="https://img.shields.io/badge/PlatformIO-FFB7C5?style=flat-square&logoColor=555" />
+      <img src="https://img.shields.io/badge/PlatformIO-FFB7C5?style=flat-square&logoColor=555" /><br/>
+      <img src="https://img.shields.io/badge/Fedora_Linux-B5EAD7?style=flat-square&logoColor=555" />
     </td>
     <td align="center" width="25%">
       <b>Languages / Frameworks</b><br/><br/>
       <img src="https://img.shields.io/badge/C-B5EAD7?style=flat-square&logoColor=555" /><br/>
       <img src="https://img.shields.io/badge/C++-FFB7C5?style=flat-square&logoColor=555" /><br/>
-      <img src="https://img.shields.io/badge/Python-B5EAD7?style=flat-square&logoColor=555" /><br/>
-      <img src="https://img.shields.io/badge/React-FFB7C5?style=flat-square&logoColor=555" />
+      <img src="https://img.shields.io/badge/Python-B5EAD7?style=flat-square&logoColor=555" />
     </td>
   </tr>
 </table>
@@ -58,6 +56,10 @@ i don't just use tools — i build systems.
 
 | project | description | status |
 |---|---|---|
+| **Drone Drop Finder** | C99 Monte Carlo drone crash simulator with trilinear interpolation, built for STM32 — submitted to TechRxiv | 📄 paper submitted |
+| **Samara Autorotation Descent** | studying maple-seed autorotation as a passive drone crash-safety mechanism | 🚧 in progress |
+| **CBGPU** | integrated student platform for Chungbuk Science High School — GPU rental, server deployment, R&E research notes, timetable, and more | 🌐 live |
+| **IESBJ** | student-run technical journal — embedded systems, firmware, hardware, control theory | 📖 ongoing |
 | **Pseudo-IMU Technology** | custom sensor fusion for precise motion tracking | 🔒 private |
 | **Extreme-FC** | flight controller for high-reliability in extreme environments | 🔒 private |
 | **Smart Drone Ecosystem** | digitizing drone accessories for commercial applications | 🔒 private |
