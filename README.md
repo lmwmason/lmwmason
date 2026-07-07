@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Embedded_Engineering-FFB7C5?style=for-the-badge&logoColor=555" />
   <img src="https://img.shields.io/badge/Goal-Embedded_Researcher_%7C_Founder-B5EAD7?style=for-the-badge&logoColor=555" />
-  <img src="https://img.shields.io/badge/Target-KAIST_특기자전형-FFB7C5?style=for-the-badge&logoColor=555" />
 </div>
 
 <br/>
